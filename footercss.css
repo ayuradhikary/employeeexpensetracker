@@ -1,0 +1,17 @@
+
+footer {
+  background-color: #30a5ff;
+  padding: 10px;
+  /*position: fixed;*/
+  bottom: -50px;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+ transition: bottom 0.3s ease-in-out;
+}
+
+.footer-visible {
+  bottom: 0;
+}
+
+
